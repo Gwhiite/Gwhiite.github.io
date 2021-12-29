@@ -1,6 +1,6 @@
-@import "/projport/global.css";
-@import "/projport/header.css";
-@import "/projport/introducao.css";
-@import "/projport/experiencia.css";
-@import "/projport/formacao.css";
-@import "/projport/footer.css";
+@import "./global.css";
+@import "./header.css";
+@import "./introducao.css";
+@import "./experiencia.css";
+@import "./formacao.css";
+@import "./footer.css";
