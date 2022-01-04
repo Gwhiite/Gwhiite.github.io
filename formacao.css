@@ -34,8 +34,8 @@
 .faculdade-tipo {
   font-size: 0.875rem;
   text-transform: uppercase;
-  color: #a3a3a3;
-  margin-bottom: 10px;
+  color: #fff;
+  margin-bottom: 15px;
 }
 .faculdade-curso {
   flex: 1;
@@ -46,7 +46,7 @@
 }
 .faculdade-instituicao {
   font-size: 1.125rem;
-  color: #a3a3a3;
+  color: #fff;
 }
 .cursos {
   margin-bottom: 60px;
@@ -54,7 +54,7 @@
 .formacao-extra h3 {
   font-size: 0.875rem;
   line-height: 1.4;
-  color: #8f8f8f;
+  color: #111;
   text-transform: uppercase;
   margin-bottom: 30px;
   position: relative;
@@ -65,7 +65,7 @@
   margin-bottom: 20px;
 }
 .formacao-extra span {
-  color: #8f8f8f;
+  color: #111111;
 }
 .cursos li {
   display: flex;
